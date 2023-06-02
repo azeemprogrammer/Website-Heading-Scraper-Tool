@@ -6,10 +6,10 @@ The Website Heading Scraper Tool is a Python script that allows you to scrape h2
 Website Heading Scraper Tool in action.
 
 ![Preview 1](perview.png)
-*BreadcrumbsWebsite-Heading-Scraper-Tool*
+*Website-Heading-Scraper-Tool*
 
 ![Preview 2](perview1.png)
-*Final Output of BreadcrumbsWebsite-Heading-Scraper-Tool*
+*Final Output of Website-Heading-Scraper-Tool*
 
 
 ## Features
